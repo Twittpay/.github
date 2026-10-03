@@ -7,7 +7,7 @@
 
 [Website](https://twittpay.com) · [Documentation](https://twittpay.com/documentation) · [Get your Brand Key](https://twittpay.com/user/brands) · support@twittpay.com
 
-![addons](https://img.shields.io/badge/addons-18-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
+![addons](https://img.shields.io/badge/addons-{{COUNT}}-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
 
 </div>
 
@@ -32,28 +32,9 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-03 12:31 UTC
+Latest versions, refreshed automatically. Updated: {{UPDATED}}
 
-| Platform | Repository | Latest version | Get it |
-|---|---|---|---|
-| Blesta | [twittpay-blesta](https://github.com/Twittpay/twittpay-blesta) | **v3.4.2** | [Download](https://github.com/Twittpay/twittpay-blesta/releases/latest) |
-| BoxBilling | [twittpay-boxbilling](https://github.com/Twittpay/twittpay-boxbilling) | **v2.6.1** | [Download](https://github.com/Twittpay/twittpay-boxbilling/releases/latest) |
-| Clientexec | [twittpay-clientexec](https://github.com/Twittpay/twittpay-clientexec) | **v2.8.0** | [Download](https://github.com/Twittpay/twittpay-clientexec/releases/latest) |
-| CodeIgniter 3 | [twittpay-codeigniter3](https://github.com/Twittpay/twittpay-codeigniter3) | **v3.1.5** | [Download](https://github.com/Twittpay/twittpay-codeigniter3/releases/latest) |
-| Easy Digital Downloads | [twittpay-edd](https://github.com/Twittpay/twittpay-edd) | **v4.3.0** | [Download](https://github.com/Twittpay/twittpay-edd/releases/latest) |
-| FOSSBilling | [twittpay-fossbilling](https://github.com/Twittpay/twittpay-fossbilling) | **v3.2.4** | [Download](https://github.com/Twittpay/twittpay-fossbilling/releases/latest) |
-| Laravel | [twittpay-laravel](https://github.com/Twittpay/twittpay-laravel) | **v4.5.0** | [Download](https://github.com/Twittpay/twittpay-laravel/releases/latest) |
-| Onest LMS | [twittpay-onest-lms](https://github.com/Twittpay/twittpay-onest-lms) | **v2.4.2** | [Download](https://github.com/Twittpay/twittpay-onest-lms/releases/latest) |
-| PerfectSMM | [twittpay-perfectsmm](https://github.com/Twittpay/twittpay-perfectsmm) | **v2.3.4** | [Download](https://github.com/Twittpay/twittpay-perfectsmm/releases/latest) |
-| Perfex CRM | [twittpay-perfexcrm](https://github.com/Twittpay/twittpay-perfexcrm) | **v3.7.1** | [Download](https://github.com/Twittpay/twittpay-perfexcrm/releases/latest) |
-| PHP | [twittpay-php](https://github.com/Twittpay/twittpay-php) | **v5.0.2** | [Download](https://github.com/Twittpay/twittpay-php/releases/latest) |
-| Smart SMM Panel | [twittpay-smart-smm-panel](https://github.com/Twittpay/twittpay-smart-smm-panel) | **v3.9.1** | [Download](https://github.com/Twittpay/twittpay-smart-smm-panel/releases/latest) |
-| SMM Matrix | [twittpay-smm-matrix](https://github.com/Twittpay/twittpay-smm-matrix) | **v2.5.1** | [Download](https://github.com/Twittpay/twittpay-smm-matrix/releases/latest) |
-| SMM Panel | [twittpay-smm](https://github.com/Twittpay/twittpay-smm) | **v2.7.3** | [Download](https://github.com/Twittpay/twittpay-smm/releases/latest) |
-| SMMCrowd | [twittpay-smmcrowd](https://github.com/Twittpay/twittpay-smmcrowd) | **v2.9.0** | [Download](https://github.com/Twittpay/twittpay-smmcrowd/releases/latest) |
-| WHMCS | [twittpay-whmcs](https://github.com/Twittpay/twittpay-whmcs) | **v6.1.0** | [Download](https://github.com/Twittpay/twittpay-whmcs/releases/latest) |
-| WISECP | [twittpay-wisecp](https://github.com/Twittpay/twittpay-wisecp) | **v4.1.3** | [Download](https://github.com/Twittpay/twittpay-wisecp/releases/latest) |
-| WooCommerce | [twittpay-woocommerce](https://github.com/Twittpay/twittpay-woocommerce) | **v5.2.1** | [Download](https://github.com/Twittpay/twittpay-woocommerce/releases/latest) |
+{{ADDONS_TABLE}}
 
 Every addon needs only your **Brand Key**. Download the zip from the **Releases** page of the repository, follow the README inside, and make one small test payment.
 
