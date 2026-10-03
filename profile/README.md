@@ -32,11 +32,11 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-03 13:46 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-03 18:28 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
-| Android | [twittpay-android-sdk](https://github.com/Twittpay/twittpay-android-sdk) | **v2.3.0** | [Download](https://github.com/Twittpay/twittpay-android-sdk/releases/latest) |
+| Android | [twittpay-android-sdk](https://github.com/Twittpay/twittpay-android-sdk) | **v2.3.1** | [Download](https://github.com/Twittpay/twittpay-android-sdk/releases/latest) |
 | Blesta | [twittpay-blesta](https://github.com/Twittpay/twittpay-blesta) | **v3.5.0** | [Download](https://github.com/Twittpay/twittpay-blesta/releases/latest) |
 | BoxBilling | [twittpay-boxbilling](https://github.com/Twittpay/twittpay-boxbilling) | **v2.7.0** | [Download](https://github.com/Twittpay/twittpay-boxbilling/releases/latest) |
 | Clientexec | [twittpay-clientexec](https://github.com/Twittpay/twittpay-clientexec) | **v2.9.0** | [Download](https://github.com/Twittpay/twittpay-clientexec/releases/latest) |
