@@ -7,7 +7,7 @@
 
 [Website](https://twittpay.com) · [Documentation](https://twittpay.com/documentation) · [Get your Brand Key](https://twittpay.com/user/brands) · support@twittpay.com
 
-![addons](https://img.shields.io/badge/addons-29-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
+![addons](https://img.shields.io/badge/addons-31-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
 
 </div>
 
@@ -32,7 +32,7 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-03 19:14 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-03 19:25 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
@@ -46,7 +46,9 @@ Latest versions, refreshed automatically. Updated: 2026-10-03 19:14 UTC
 | FluentCart | [twittpay-fluentcart](https://github.com/Twittpay/twittpay-fluentcart) | **v2.1.3** | [Download](https://github.com/Twittpay/twittpay-fluentcart/releases/latest) |
 | FOSSBilling | [twittpay-fossbilling](https://github.com/Twittpay/twittpay-fossbilling) | **v3.3.0** | [Download](https://github.com/Twittpay/twittpay-fossbilling/releases/latest) |
 | Laravel | [twittpay-laravel](https://github.com/Twittpay/twittpay-laravel) | **v4.6.0** | [Download](https://github.com/Twittpay/twittpay-laravel/releases/latest) |
+| Node.js | [twittpay-nodejs](https://github.com/Twittpay/twittpay-nodejs) | **v5.4.0** | [Download](https://github.com/Twittpay/twittpay-nodejs/releases/latest) |
 | Onest LMS | [twittpay-onest-lms](https://github.com/Twittpay/twittpay-onest-lms) | **v2.5.0** | [Download](https://github.com/Twittpay/twittpay-onest-lms/releases/latest) |
+| OpenAPI and Postman | [twittpay-openapi](https://github.com/Twittpay/twittpay-openapi) | **v2.6.0** | [Download](https://github.com/Twittpay/twittpay-openapi/releases/latest) |
 | OpenCart | [twittpay-opencart](https://github.com/Twittpay/twittpay-opencart) | **v3.3.1** | [Download](https://github.com/Twittpay/twittpay-opencart/releases/latest) |
 | Paid Memberships Pro | [twittpay-pmpro](https://github.com/Twittpay/twittpay-pmpro) | **v2.6.0** | [Download](https://github.com/Twittpay/twittpay-pmpro/releases/latest) |
 | Paymenter | [twittpay-paymenter](https://github.com/Twittpay/twittpay-paymenter) | **v2.2.0** | [Download](https://github.com/Twittpay/twittpay-paymenter/releases/latest) |
