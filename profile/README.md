@@ -7,7 +7,7 @@
 
 [Website](https://twittpay.com) · [Documentation](https://twittpay.com/documentation) · [Get your Brand Key](https://twittpay.com/user/brands) · support@twittpay.com
 
-![addons](https://img.shields.io/badge/addons-28-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
+![addons](https://img.shields.io/badge/addons-29-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
 
 </div>
 
@@ -32,7 +32,7 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-03 18:58 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-03 19:14 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
@@ -53,6 +53,7 @@ Latest versions, refreshed automatically. Updated: 2026-10-03 18:58 UTC
 | PerfectSMM | [twittpay-perfectsmm](https://github.com/Twittpay/twittpay-perfectsmm) | **v2.4.0** | [Download](https://github.com/Twittpay/twittpay-perfectsmm/releases/latest) |
 | Perfex CRM | [twittpay-perfexcrm](https://github.com/Twittpay/twittpay-perfexcrm) | **v3.8.0** | [Download](https://github.com/Twittpay/twittpay-perfexcrm/releases/latest) |
 | PHP | [twittpay-php](https://github.com/Twittpay/twittpay-php) | **v5.1.0** | [Download](https://github.com/Twittpay/twittpay-php/releases/latest) |
+| Python | [twittpay-python](https://github.com/Twittpay/twittpay-python) | **v2.5.0** | [Download](https://github.com/Twittpay/twittpay-python/releases/latest) |
 | Shopify | [twittpay-shopify](https://github.com/Twittpay/twittpay-shopify) | **v2.2.0** | [Download](https://github.com/Twittpay/twittpay-shopify/releases/latest) |
 | Smart SMM Panel | [twittpay-smart-smm-panel](https://github.com/Twittpay/twittpay-smart-smm-panel) | **v3.10.0** | [Download](https://github.com/Twittpay/twittpay-smart-smm-panel/releases/latest) |
 | SMM Matrix | [twittpay-smm-matrix](https://github.com/Twittpay/twittpay-smm-matrix) | **v2.6.0** | [Download](https://github.com/Twittpay/twittpay-smm-matrix/releases/latest) |
