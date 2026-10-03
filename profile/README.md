@@ -7,7 +7,7 @@
 
 [Website](https://twittpay.com) · [Documentation](https://twittpay.com/documentation) · [Get your Brand Key](https://twittpay.com/user/brands) · support@twittpay.com
 
-![addons](https://img.shields.io/badge/addons-25-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
+![addons](https://img.shields.io/badge/addons-27-0B71F8) ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-0B71F8) ![license](https://img.shields.io/badge/source-open-0B71F8)
 
 </div>
 
@@ -32,10 +32,11 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-03 13:26 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-03 13:46 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
+| Android | [twittpay-android-sdk](https://github.com/Twittpay/twittpay-android-sdk) | **v2.3.0** | [Download](https://github.com/Twittpay/twittpay-android-sdk/releases/latest) |
 | Blesta | [twittpay-blesta](https://github.com/Twittpay/twittpay-blesta) | **v3.5.0** | [Download](https://github.com/Twittpay/twittpay-blesta/releases/latest) |
 | BoxBilling | [twittpay-boxbilling](https://github.com/Twittpay/twittpay-boxbilling) | **v2.7.0** | [Download](https://github.com/Twittpay/twittpay-boxbilling/releases/latest) |
 | Clientexec | [twittpay-clientexec](https://github.com/Twittpay/twittpay-clientexec) | **v2.9.0** | [Download](https://github.com/Twittpay/twittpay-clientexec/releases/latest) |
@@ -51,6 +52,7 @@ Latest versions, refreshed automatically. Updated: 2026-10-03 13:26 UTC
 | PerfectSMM | [twittpay-perfectsmm](https://github.com/Twittpay/twittpay-perfectsmm) | **v2.4.0** | [Download](https://github.com/Twittpay/twittpay-perfectsmm/releases/latest) |
 | Perfex CRM | [twittpay-perfexcrm](https://github.com/Twittpay/twittpay-perfexcrm) | **v3.8.0** | [Download](https://github.com/Twittpay/twittpay-perfexcrm/releases/latest) |
 | PHP | [twittpay-php](https://github.com/Twittpay/twittpay-php) | **v5.1.0** | [Download](https://github.com/Twittpay/twittpay-php/releases/latest) |
+| Shopify | [twittpay-shopify](https://github.com/Twittpay/twittpay-shopify) | **v2.2.0** | [Download](https://github.com/Twittpay/twittpay-shopify/releases/latest) |
 | Smart SMM Panel | [twittpay-smart-smm-panel](https://github.com/Twittpay/twittpay-smart-smm-panel) | **v3.10.0** | [Download](https://github.com/Twittpay/twittpay-smart-smm-panel/releases/latest) |
 | SMM Matrix | [twittpay-smm-matrix](https://github.com/Twittpay/twittpay-smm-matrix) | **v2.6.0** | [Download](https://github.com/Twittpay/twittpay-smm-matrix/releases/latest) |
 | SMM Panel | [twittpay-smm](https://github.com/Twittpay/twittpay-smm) | **v2.8.0** | [Download](https://github.com/Twittpay/twittpay-smm/releases/latest) |
