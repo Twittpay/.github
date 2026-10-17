@@ -32,7 +32,7 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-16 21:07 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-17 04:24 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
