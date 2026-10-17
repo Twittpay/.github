@@ -32,7 +32,7 @@ You create a **Brand**, copy its **Brand Key**, install an addon for your platfo
 
 ## Addons
 
-Latest versions, refreshed automatically. Updated: 2026-10-17 10:42 UTC
+Latest versions, refreshed automatically. Updated: 2026-10-17 15:33 UTC
 
 | Platform | Repository | Latest version | Get it |
 |---|---|---|---|
@@ -58,7 +58,7 @@ Latest versions, refreshed automatically. Updated: 2026-10-17 10:42 UTC
 | Python | [twittpay-python](https://github.com/Twittpay/twittpay-python) | **v2.5.0** | [Download](https://github.com/Twittpay/twittpay-python/releases/latest) |
 | Shopify | [twittpay-shopify](https://github.com/Twittpay/twittpay-shopify) | **v2.2.0** | [Download](https://github.com/Twittpay/twittpay-shopify/releases/latest) |
 | Smart SMM Panel | [twittpay-smart-smm-panel](https://github.com/Twittpay/twittpay-smart-smm-panel) | **v3.10.0** | [Download](https://github.com/Twittpay/twittpay-smart-smm-panel/releases/latest) |
-| SMM Matrix | [twittpay-smm-matrix](https://github.com/Twittpay/twittpay-smm-matrix) | **v2.6.0** | [Download](https://github.com/Twittpay/twittpay-smm-matrix/releases/latest) |
+| SMM Matrix | [twittpay-smm-matrix](https://github.com/Twittpay/twittpay-smm-matrix) | **v2.7.0** | [Download](https://github.com/Twittpay/twittpay-smm-matrix/releases/latest) |
 | SMM Panel | [twittpay-smm](https://github.com/Twittpay/twittpay-smm) | **v2.8.0** | [Download](https://github.com/Twittpay/twittpay-smm/releases/latest) |
 | SMMCrowd | [twittpay-smmcrowd](https://github.com/Twittpay/twittpay-smmcrowd) | **v2.10.0** | [Download](https://github.com/Twittpay/twittpay-smmcrowd/releases/latest) |
 | TheShop | [twittpay-theshop](https://github.com/Twittpay/twittpay-theshop) | **v2.4.1** | [Download](https://github.com/Twittpay/twittpay-theshop/releases/latest) |
